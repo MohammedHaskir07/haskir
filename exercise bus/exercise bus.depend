@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1700480666 source:c:\users\pc\documents\language_c\firstproject\exercise bus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700926343 source:c:\git\exercise bus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
