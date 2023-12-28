@@ -1,0 +1,42 @@
+.login1{
+    margin: 34%;
+    margin-top: 130px;
+    height: 370px;
+    background-color: white;
+    width: 30%;
+    border-radius: 12px;
+    font-size: large;
+}
+body{
+    background: #FC466B;  
+    background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3F5EFB, #FC466B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+div{
+    margin: 20px;
+}
+input{
+    border: none;
+    
+    
+}
+h1 , .signup  {
+    text-align: center;
+    padding-top: 12px;
+}
+#submit{
+    margin-left:10%;
+    width: 300px;
+    border-radius: 20px;
+    height: 44px;
+    border: 2px black solid;
+    font-size: x-large ;
+    
+}
+a{
+    text-decoration: none;
+}
+
+
+
